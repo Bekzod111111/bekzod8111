@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h11{
+    margin-top: -40px;
+}
+body{
+padding-left: 400px;
+padding-top: 30px;
+background-color: rgb(230, 128, 3);
+}
+input{  
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.label2{
+    margin-left: 160px;
+}
+.label4{
+    margin-left: 185px;
+}
+.label6{
+    margin-left: 165px;
+}
+.input4, .input2, .input6{
+margin-left: 10px; 
+}
+.input8{
+    margin-left: 80px;
+}
+.input9{
+    margin-left: 80px;
+    padding-left:20px;
+}
+div{
+    display: inline-block;
+    background-color: white;
+    padding: 50px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+form{
+    margin-top: 30px;
+}
+h1{
+    font-size: 22px;
+}
+button{
+    padding:10px;
+    width: 500px;
+background-color: rgb(210, 100, 0);
+border:1px solid rgb(230, 128, 3);
+color:white;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover {
+background-color: red;
+}
